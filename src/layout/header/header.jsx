@@ -11,7 +11,7 @@ class Header extends Component {
 
     render() {
         return(
-            <div>
+            <div id="header">
                 <h1 id="siteTitle">A Big Centered Title</h1>
             </div>
         )

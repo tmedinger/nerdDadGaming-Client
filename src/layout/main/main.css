@@ -1,0 +1,13 @@
+#main {
+    margin-left: 40px;
+}
+
+#mainArticleTitle {
+    margin: auto;
+    width: 40%;
+    font-size: 28px;
+}
+
+#mainArticleContent {
+    font-size: 20px;
+}

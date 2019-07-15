@@ -1,0 +1,18 @@
+#navbar {
+    background-color: lightgray;
+    height: 30px;
+}
+
+#userGreeting {
+    font-size: 14px;
+}
+
+#logInOut {
+    background-color: blue;
+    box-shadow: 2, 2, 2, 2;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    height: 30px;
+    width: 50px;
+}

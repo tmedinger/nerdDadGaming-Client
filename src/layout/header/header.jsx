@@ -12,7 +12,7 @@ class Header extends Component {
     render() {
         return(
             <div>
-                <h1>A Big Centered Title</h1>
+                <h1 id="siteTitle">A Big Centered Title</h1>
             </div>
         )
     }

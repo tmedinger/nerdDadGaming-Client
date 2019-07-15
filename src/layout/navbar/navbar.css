@@ -1,18 +1,21 @@
 #navbar {
     background-color: lightgray;
-    height: 30px;
+    height: 40px;
 }
 
 #userGreeting {
     font-size: 14px;
+    display: inline-block;
 }
 
 #logInOut {
-    background-color: blue;
-    box-shadow: 2, 2, 2, 2;
-    border: none;
-    border-radius: 5px;
+    /* display: inline-block; */
+    background-color: lightgray;
+    box-shadow: 2, 2, 2, black;
+    border-left: 1px solid gray;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
     float: right;
-    height: 30px;
-    width: 50px;
+    height: 40px;
 }

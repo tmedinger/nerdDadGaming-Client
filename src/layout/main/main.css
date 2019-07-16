@@ -1,13 +1,15 @@
 #main {
-    margin-left: 40px;
+    margin-left: 80px;
+    margin-right: 50px;
 }
 
 #mainArticleTitle {
     margin: auto;
-    width: 40%;
-    font-size: 28px;
+    width: 55%;
+    font-size: 32px;
 }
 
-#mainArticleContent {
+.mainArticleContent {
     font-size: 20px;
+    margin-bottom: 10px;
 }

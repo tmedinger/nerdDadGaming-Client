@@ -1,4 +1,9 @@
 .previousArticleTitle {
     margin: auto;
-    width: 80%;
+    width: 90%;
+    font-size: 20px;
+}
+
+.previousArticleContent {
+    font-size: 16px;
 }
